@@ -7,7 +7,7 @@
 - Create a virtual environment with Python 3 and install dependencies.
 
 ```
-$ virtualenv insta --python=/path/to/python3
+$ virtualenv digit --python=/path/to/python3
 $ source insta/bin/activate
 ```
 
