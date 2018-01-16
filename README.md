@@ -8,7 +8,7 @@
 
 ```
 $ virtualenv digit --python=/path/to/python3
-$ source dig/bin/activate
+$ source digit/bin/activate
 ```
 
 - Run jupyter notebook and open ipynb file to run and test.
